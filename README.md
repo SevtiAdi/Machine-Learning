@@ -98,4 +98,4 @@ Machine Learning merupakan teknologi penting di era modern yang digunakan dalam 
 
 ## 👨‍💻 Penulis
 
-Sevti Adi
+Sevti Adi Levran Panjaitan
